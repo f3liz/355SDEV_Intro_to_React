@@ -1,3 +1,4 @@
+// component for contact information
 const Contact = () => {
     return(
     <>

@@ -1,3 +1,4 @@
+// component for projects
 const Projects = () => {
     return(
     <>

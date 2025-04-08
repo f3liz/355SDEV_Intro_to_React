@@ -1,3 +1,4 @@
+// component for about me
 const AboutMe = () => {
     return(
     <>
